@@ -3,8 +3,8 @@ Contributors: anantsites, anantaddons
 Tags: elementor templates, Gutenberg template, landing page, WoCommerce Templates
 Requires at least: 5.4
 Requires PHP: 7.4
-Tested up to: 6.8
-Stable tag: 1.1.7
+Tested up to: 6.9
+Stable tag: 1.1.8
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -87,6 +87,8 @@ Yes! We are working on many more free website demos built using Elementor.
 
 
 == Changelog ==
+= 1.1.8 =
+* Improved overall compatibility with the latest WordPress versions.
 = 1.1.7 =
 * Update Function Name.
 = 1.1.6 =

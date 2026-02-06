@@ -2,7 +2,7 @@
 /**
  * Plugin Name:       Anant Sites 
  * Description:       Anant Sites offers existing Elementor ready-made website with 1-click.
- * Version:           1.1.7
+ * Version:           1.1.8
  * Author:            Anantsites
  * Author URI:        https://anantsites.com/
  * License:           GPLv3
